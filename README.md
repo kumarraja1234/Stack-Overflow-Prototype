@@ -1,4 +1,4 @@
-# cmpe273-stackoverflow-team-project
+# stackoverflow-team-project
 
 ## Steps for backend setup:    
 
